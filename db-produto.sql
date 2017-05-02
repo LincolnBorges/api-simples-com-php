@@ -6,4 +6,4 @@ CREATE TABLE IF NOT EXISTS `produto` (
 
 INSERT INTO `produto` (`id`, `nome`) VALUES
 	(13, 'Relé Eletromecânico'),
-	(14, 'Almofada de Ganso Canadense');
+	(14, 'Almofada de Ganso Canadense'); 
