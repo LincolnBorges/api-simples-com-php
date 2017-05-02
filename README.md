@@ -16,7 +16,7 @@ Apenas execute o arquivo do lado cliente e ele mostrará na tela o retorno do la
 
 ## Créditos
 
-[Lincoln Borges](http://www.lnborges.com.br/)
+<a href="http://www.lnborges.com.br/" target="_blank">Lincoln Borges</a>
 
 ## Licença
 
