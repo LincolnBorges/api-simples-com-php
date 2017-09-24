@@ -5,5 +5,5 @@ CREATE TABLE IF NOT EXISTS `produto` (
 ) ENGINE=MyISAM AUTO_INCREMENT=1 DEFAULT CHARSET=latin1;
 
 INSERT INTO `produto` (`id`, `nome`) VALUES
-	(13, 'Relé Eletromecânico'),
-	(14, 'Almofada de Ganso Canadense'); 
+	(1, 'Relé Eletromecânico'),
+	(2, 'Almofada de Ganso Canadense'); 
